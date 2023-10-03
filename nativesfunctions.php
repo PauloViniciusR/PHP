@@ -21,7 +21,7 @@
 
             echo retornarString();
 
-            $variavel = verdade();
+            $variavel = verdade();  
         ?>
     </body>
 </html>
