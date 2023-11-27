@@ -1,4 +1,7 @@
 <?php 
+
+//Facade Patters
+
 //Adicionar/Fechar Carrinho 
 //Calcular Frete
 //Fechar pedido
