@@ -1,1 +1,1 @@
-<h2>Página de eventos</h2>
+<h3><i class="bi bi-calendar-check"></i> Eventos</h3>
