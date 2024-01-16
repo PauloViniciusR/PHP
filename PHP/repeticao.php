@@ -3,11 +3,11 @@
         <h1>
             <?php 
             //while
-            /* $i = 1;
-                while($i <= 10){
-                    echo" $i \n";
-                    $i++;
-                } */
+          $i = 1;
+            while($i <= 100){
+                echo "$i \n";
+                $i++;
+            }
 
             //do-while 
           /*  $j = 1;
@@ -24,15 +24,15 @@
             } */
 
             //for com array
-           $arrayVeiculos = Array("Carro", "Moto", "Bike", "Caminhão");
+           //$arrayVeiculos = Array("Carro", "Moto", "Bike", "Caminhão");
                /* for($i = 0; $i < count($veiculos); $i++){
                     echo"$veiculos[$i]" . "\n";
                 } */
 
             //foreach com array 
-               foreach($arrayVeiculos as $veiculos){
+              /* foreach($arrayVeiculos as $veiculos){
                   echo"$veiculos" . "\n";
-               }
+               } */
                     
 
 

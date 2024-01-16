@@ -50,7 +50,7 @@
             //switch
             echo "\n\n";
 
-            $veiculo = "Carro";
+            $veiculo = "bike";
             switch($veiculo){
                 case("Carro");
                     echo "O veiculo selecionado é $veiculo";
